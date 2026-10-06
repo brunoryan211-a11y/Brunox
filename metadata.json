@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca Escolar - Controle de Livros e Empréstimos",
+  "description": "Sistema prático para controle de livros da biblioteca: saiba quem pegou, qual turma, quando pegou e o que está disponível na estante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
